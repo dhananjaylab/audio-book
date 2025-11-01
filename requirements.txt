@@ -1,6 +1,6 @@
 streamlit
 pdfplumber
-docx
+python-docx
 epub
 ebooklib
 gtts
